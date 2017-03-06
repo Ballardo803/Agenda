@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agenda</string>
+
+    <string name="btn_nueva">NUEVO CONTACTO</string>
+
+    <string name="btn_ok">GUARDAR</string>
+    <string name="btn_cancel">CANCELAR</string>
+
+    <string name="hint_titulo">NOMBRE</string>
+    <string name="hint_descripcion">TELEFONO</string>
+    <string name="hint_fecha">CORREO</string>
+</resources>
